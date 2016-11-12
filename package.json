@@ -1,0 +1,14 @@
+{
+  "name": "Monads",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "",
+    "test": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "typescript": "^2.0.9"
+  }
+}
